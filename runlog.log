@@ -1,0 +1,272 @@
+**************************************************************************
+The "android" command is deprecated.
+For manual SDK, AVD, and project management, please use Android Studio.
+For command-line tools, use tools\bin\sdkmanager.bat
+and tools\bin\avdmanager.bat
+**************************************************************************
+
+Invalid or unsupported command "create uitest-project -n demo -t 1 -p "D:\workspace\cock""
+
+Supported commands are:
+android list target
+android list avd
+android list device
+android create avd
+android move avd
+android delete avd
+android list sdk
+android update sdk
+Buildfile: D:\workspace\cock\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 22.0.4
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20130717\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 17.0.0
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+    [mkdir] Created dir: D:\workspace\cock\bin
+    [mkdir] Created dir: D:\workspace\cock\bin\classes
+
+-pre-compile:
+
+compile:
+
+BUILD FAILED
+D:\adt-bundle-windows-x86_64-20130717\sdk\tools\ant\uibuild.xml:183: Class not found: javac1.8
+
+Total time: 0 seconds
+* daemon not running. starting it now on port 5037 *
+* daemon started successfully *
+cannot stat 'D:\workspace\cock\bin\demo.jar': No such file or directory
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.mypack.UiDevicesTest
+
+INSTRUMENTATION_STATUS: stream=
+
+com.mypack.UiDevicesTest:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=testProguard
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.mypack.UiDevicesTest
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=testProguard
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 26.697
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+**************************************************************************
+The "android" command is deprecated.
+For manual SDK, AVD, and project management, please use Android Studio.
+For command-line tools, use tools\bin\sdkmanager.bat
+and tools\bin\avdmanager.bat
+**************************************************************************
+
+Invalid or unsupported command "create uitest-project -n demo -t 1 -p "D:\workspace\cock""
+
+Supported commands are:
+android list target
+android list avd
+android list device
+android create avd
+android move avd
+android delete avd
+android list sdk
+android update sdk
+Buildfile: D:\workspace\cock\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 22.0.4
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20130717\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 17.0.0
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+BUILD FAILED
+D:\adt-bundle-windows-x86_64-20130717\sdk\tools\ant\uibuild.xml:183: Class not found: javac1.8
+
+Total time: 0 seconds
+cannot stat 'D:\workspace\cock\bin\demo.jar': No such file or directory
+INSTRUMENTATION_RESULT: shortMsg=java.lang.RuntimeException
+
+INSTRUMENTATION_RESULT: longMsg=Didn't find class "com.mypack.UiTest" on path: DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/uiautomator.jar", zip file "/data/local/tmp/demo.jar"],nativeLibraryDirectories=[/vendor/lib, /system/lib]]
+
+INSTRUMENTATION_CODE: 0
+
+**************************************************************************
+The "android" command is deprecated.
+For manual SDK, AVD, and project management, please use Android Studio.
+For command-line tools, use tools\bin\sdkmanager.bat
+and tools\bin\avdmanager.bat
+**************************************************************************
+
+Invalid or unsupported command "create uitest-project -n demo -t 1 -p "D:\workspace\cock""
+
+Supported commands are:
+android list target
+android list avd
+android list device
+android create avd
+android move avd
+android delete avd
+android list sdk
+android update sdk
+Buildfile: D:\workspace\cock\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 22.0.4
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20130717\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 17.0.0
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+BUILD FAILED
+D:\adt-bundle-windows-x86_64-20130717\sdk\tools\ant\uibuild.xml:183: Class not found: javac1.8
+
+Total time: 0 seconds
+1722 KB/s (7054 bytes in 0.004s)
+INSTRUMENTATION_RESULT: shortMsg=java.lang.RuntimeException
+
+INSTRUMENTATION_RESULT: longMsg=Didn't find class "com.mypack.UiTest" on path: DexPathList[[zip file "/system/framework/android.test.runner.jar", zip file "/system/framework/uiautomator.jar", zip file "/data/local/tmp/demo.jar"],nativeLibraryDirectories=[/vendor/lib, /system/lib]]
+
+INSTRUMENTATION_CODE: 0
+
+**************************************************************************
+The "android" command is deprecated.
+For manual SDK, AVD, and project management, please use Android Studio.
+For command-line tools, use tools\bin\sdkmanager.bat
+and tools\bin\avdmanager.bat
+**************************************************************************
+
+Invalid or unsupported command "create uitest-project -n demo -t 1 -p "D:\workspace\cock""
+
+Supported commands are:
+android list target
+android list avd
+android list device
+android create avd
+android move avd
+android delete avd
+android list sdk
+android update sdk
+Buildfile: D:\workspace\cock\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 22.0.4
+ [checkenv] Installed at D:\adt-bundle-windows-x86_64-20130717\sdk
+
+-build-setup:
+[getbuildtools] Using latest Build Tools: 17.0.0
+     [echo] Resolving Build Target for demo...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+BUILD FAILED
+D:\adt-bundle-windows-x86_64-20130717\sdk\tools\ant\uibuild.xml:183: Class not found: javac1.8
+
+Total time: 0 seconds
+1148 KB/s (7054 bytes in 0.006s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=android.support.v4.UiTest
+
+INSTRUMENTATION_STATUS: stream=
+
+android.support.v4.UiTest:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=testProguard
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=android.support.v4.UiTest
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=testProguard
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 26.711
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
